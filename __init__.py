@@ -1,1 +1,1 @@
-from .version  import *
+from .pelican_version import *

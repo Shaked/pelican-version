@@ -6,7 +6,7 @@ A simple version generator which generates an incremented version file.
 
 ```
 PLUGINS = [
-    'version'
+    'pelican_version'
 ]
 
 VERSION_PATH = PATH + '/version'
